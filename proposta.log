@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.12.12)  12 DEC 2017 17:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2017.12.12)  11 JAN 2018 01:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -630,36 +630,47 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 24.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 42.
+
+
+LaTeX Warning: Citation `Tollo:15' on page 1 undefined on input line 36.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 54.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 54.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./proposta.bbl) [3] (
-./proposta.aux) ) 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3] (./proposta.bbl) [4] (./proposta.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3991 strings out of 494870
- 52269 string characters out of 6179054
- 146813 words of memory out of 5000000
- 7227 multiletter control sequences out of 15000+600000
+ 4003 strings out of 494870
+ 52474 string characters out of 6179054
+ 144870 words of memory out of 5000000
+ 7239 multiletter control sequences out of 15000+600000
  16559 words of font info for 38 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
- 41i,9n,35p,554b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
-w/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a
-.pfb>
-Output written on proposta.pdf (3 pages, 69804 bytes).
+ 41i,9n,35p,776b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on proposta.pdf (4 pages, 77207 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

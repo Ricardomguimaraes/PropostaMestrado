@@ -1,16 +1,29 @@
 \begin{thebibliography}{}
 
-\bibitem[Davide 2015]{Tollo:15}
-Davide, D. T. G. T. S. L. G. D.~M. (2015).
-\newblock Using online textual data, principal component analysis and
-  artificial neural networks to study business and innovation practices in
-  technology-driven firms.
-\newblock {\em Computers in Industry}.
+\bibitem[Dimitriadis 2008]{dimitriadis2008opinia:2008}
+Dimitriadis, D. (2008).
+\newblock Opinia europejskiego komitetu ekonomiczno-spolecznego w sprawie:
+  Postawy przedsiebiorcze a strategia lizbonska opinion of the european
+  economic and social committee on: Entrepreneurial demeanour and the lisbon
+  strategy.
+\newblock {\em Dziennik Urzedowy Unii Europejskiej Official Journal of the
+  European Union}, page~85.
+
+\bibitem[Hofstede 2011]{hofstede2011dimensionalizing:2011}
+Hofstede, G. (2011).
+\newblock Dimensionalizing cultures: The hofstede model in context.
+\newblock {\em Online readings in psychology and culture}, 2(1):8.
 
 \bibitem[Liu 2011]{liu:11}
 Liu, B. (2011).
 \newblock {\em Web Data Mining - Exploring Hyperlinks, Contents and Usage
   Data}.
 \newblock Springer, second edition.
+
+\bibitem[Staniewski and Awruk 2015]{staniewski2015motivating:2015}
+Staniewski, M. and Awruk, K. (2015).
+\newblock Motivating factors and barriers in the commencement of one's own
+  business for potential entrepreneurs.
+\newblock {\em Economic Research-Ekonomska Istrazivanja}, 28(1):583--592.
 
 \end{thebibliography}
