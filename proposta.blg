@@ -3,46 +3,44 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: proposta.aux
 The style file: sbc.bst
 Database file #1: proposta.bib
-Warning--I didn't find a database entry for "Tollo:15"
-You've used 6 entries,
+You've used 12 entries,
             1935 wiz_defined-function locations,
-            512 strings with 4919 characters,
-and the built_in function-call counts, 2067 in all, are:
-= -- 200
-> -- 54
-< -- 7
-+ -- 18
-- -- 16
-* -- 164
-:= -- 365
-add.period$ -- 18
-call.type$ -- 6
-change.case$ -- 38
-chr.to.int$ -- 6
-cite$ -- 6
-duplicate$ -- 89
-empty$ -- 162
-format.name$ -- 26
-if$ -- 412
+            550 strings with 6419 characters,
+and the built_in function-call counts, 4273 in all, are:
+= -- 422
+> -- 124
+< -- 11
++ -- 44
+- -- 38
+* -- 353
+:= -- 751
+add.period$ -- 36
+call.type$ -- 12
+change.case$ -- 79
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 172
+empty$ -- 326
+format.name$ -- 56
+if$ -- 837
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 7
-newline$ -- 33
-num.names$ -- 18
-pop$ -- 27
+missing$ -- 13
+newline$ -- 63
+num.names$ -- 36
+pop$ -- 54
 preamble$ -- 1
-purify$ -- 38
+purify$ -- 79
 quote$ -- 0
-skip$ -- 71
+skip$ -- 135
 stack$ -- 0
-substring$ -- 141
-swap$ -- 11
+substring$ -- 323
+swap$ -- 17
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 34
+type$ -- 70
 warning$ -- 0
-while$ -- 17
+while$ -- 38
 width$ -- 0
-write$ -- 80
-(There was 1 warning)
+write$ -- 157
